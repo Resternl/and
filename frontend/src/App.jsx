@@ -4,10 +4,11 @@ import Items from "./Components/Items";
 import UserIcon from "./Components/Element/icon/UserIcon";
 import Friend from "./Components/Friend"
 import AlgoritmaFriend from "./Components/AlgoritmaFriend"
+import { Fragment } from "react";
 
 function App() {
   return (
-    <div className="">
+    <>
       <Navbar />
       <Items />
       <VibesTitle />
@@ -15,7 +16,7 @@ function App() {
       <Friend />
       <DaftarText>Disarankan untuk anda</DaftarText>
       <AlgoritmaFriend/>
-    </div>
+    </>
   );
 }
 

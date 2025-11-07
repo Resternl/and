@@ -9,14 +9,14 @@
 
 ---
 
-## 🚀 Tentang &And
+## = Tentang &And
 
 **&And** adalah aplikasi web chat realtime yang dirancang untuk pengalaman sosial media yang interaktif dan cepat.  
 Proyek ini menggabungkan teknologi modern di sisi **frontend** dan **backend** untuk menghadirkan komunikasi yang efisien dan aman.
 
 ---
 
-## 🏗️ Struktur Proyek
+## ? Struktur Proyek
 
 ```
 &and/
@@ -27,7 +27,7 @@ Proyek ini menggabungkan teknologi modern di sisi **frontend** dan **backend** u
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## › Teknologi yang Digunakan
 
 - **Frontend:** React, TailwindCSS, Vite (atau Next.js jika digunakan)
 - **Backend:** Node.js, Express, Socket.io
@@ -36,17 +36,17 @@ Proyek ini menggabungkan teknologi modern di sisi **frontend** dan **backend** u
 
 ---
 
-## 💬 Fitur Utama
+##  Fitur Utama
 
-- 💨 Chat realtime (Socket.io)
-- 👥 Sistem pertemanan & grup
-- 🔒 Autentikasi pengguna
-- 📱 Responsif di berbagai perangkat
-- 🌓 Mode terang dan gelap
+-  Chat realtime (Socket.io)
+-  Sistem pertemanan & grup
+-  Autentikasi pengguna
+-  Responsif di berbagai perangkat
+-  Mode terang dan gelap
 
 ---
 
-## 🧑‍💻 Cara Menjalankan Proyek
+##  Cara Menjalankan Proyek
 
 1. Clone repository:
    ```bash
@@ -74,7 +74,7 @@ Proyek ini menggabungkan teknologi modern di sisi **frontend** dan **backend** u
    ```
 ---
 
-## 📜 Lisensi
+##  Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](./LICENSE).
 
